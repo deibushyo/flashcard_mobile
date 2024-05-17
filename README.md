@@ -1,4 +1,4 @@
-# flashcard_mobile/ FLASH it (tentative lol)
+# flashcard_mobile/ FLASH it (tentative lool)
 
 `Converter`
 - defined for page traversals (used in `Register/LoginPage.xaml`).
